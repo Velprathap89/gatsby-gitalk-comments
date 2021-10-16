@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-gitalk-comments',
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
